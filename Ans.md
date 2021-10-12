@@ -34,7 +34,7 @@ It means lazy initialization. Your variable will not be initialized unless you u
 ```kotlin
 
 val testvariable: String by lazy {
-    val test = "value"
+  "value"
 }
 
 ```
